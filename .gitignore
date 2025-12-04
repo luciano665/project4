@@ -1,0 +1,26 @@
+# Maven / Java build
+target/
+*.class
+*.jar
+*.war
+*.ear
+
+# Logs & temp
+*.log
+*.out
+*.tmp
+
+# IDE / tooling
+.idea/
+*.iml
+.vscode/
+.gradle/
+.classpath
+.project
+.settings/
+
+# OS + editor cruft
+.DS_Store
+Thumbs.db
+*~
+*.swp
